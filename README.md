@@ -36,6 +36,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Video of working app!
 
+[Untitled_ Mar 14, 2024 6_44 PM.webm](https://github.com/jacksonjjones/strong_dinos/assets/152823903/ebb53990-8db2-4a6d-85e4-4855976bc899)
+
 ## Link to video of working app!
 
 https://drive.google.com/file/d/1pVrE4WzsJ-ZnpIPyuIM27tewmTMwCBn0/view
